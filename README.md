@@ -1,4 +1,4 @@
 # sachin-malik-demo
 this is my first git repository
 <br>
-author - sachin malik
+author - (sachin malik)
